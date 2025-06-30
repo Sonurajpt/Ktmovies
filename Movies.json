@@ -18,7 +18,14 @@
       "title": "Rana naidu S2",
       "thumbnail": "https://i.postimg.cc/n9FKy8ws/movie3.jpg",
       "video": "https://vz-583ac135-bb8.b-cdn.net/ed717433-76bd-4c0b-ac12-bec5cfa4eb2e/playlist.m3u8",
-      "section": "webseries",
+      "section": "web series",
+      "category": "Netflix"
+    },
+    {
+      "title": "Good school Evil",
+      "thumbnail": "https://i.postimg.cc/jDLppmGk/movie4.jpg",
+      "video": "https://vz-583ac135-bb8.b-cdn.net/4d9dafe6-04a4-4023-89cc-4f41bd470220/playlist.m3u8",
+      "section": "top rated",
       "category": "Netflix"
     }
   ]
