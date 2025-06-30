@@ -27,6 +27,13 @@
       "video": "https://vz-583ac135-bb8.b-cdn.net/4d9dafe6-04a4-4023-89cc-4f41bd470220/playlist.m3u8",
       "section": "top rated",
       "category": "Netflix"
+    },
+    {
+      "title": "Snack shack",
+      "thumbnail": "https://i.postimg.cc/ZW49jP2R/movie5.jpg",
+      "video": "https://vz-583ac135-bb8.b-cdn.net/5cdfe4a8-3dee-4fba-8c2d-3328188ee18c/playlist.m3u8",
+      "section": "trending",
+      "category": "amazon prime"
     }
   ]
 }
