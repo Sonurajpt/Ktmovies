@@ -1,15 +1,16 @@
 {
   "movies": [
     {
-      "title": "Alice in borderland S1",
+      "title": "Alice in Borderland S1",
       "thumbnail": "https://i.postimg.cc/wR7PhfsZ/movie1.jpg",
-      "video": "https://vz-583ac135-bb8.b-cdn.net/29a0a589-fe81-4cb8-915e-02b82027b22f/playlist.m3u8"
-      "category": "netflix",
+      "video": "https://vz-583ac135-bb8.b-cdn.net/29a0a589-fe81-4cb8-915e-02b82027b22f/playlist.m3u8",
+      "category": "Netflix"
     },
     {
       "title": "Salaar",
       "thumbnail": "https://example.com/salaar.jpg",
-      "video": "https://streamtape.com/salaar"
+      "video": "https://streamtape.com/salaar",
+      "category": "Amazon Prime"
     }
   ]
 }
