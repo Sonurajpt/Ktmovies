@@ -48,6 +48,13 @@
       "video": "https://vz-17e8b95f-de8.b-cdn.net/f452bf50-5c2a-486e-89d9-45dcff25232f/playlist.m3u8",
       "section": "top rated",
       "category": "Netflix"
+     },
+    {
+      "title": " Beautiful disaster",
+      "thumbnail": "https://i.postimg.cc/Sj8bVMFn/ddaf8687ae6677cd3495621f295be0ac.jpg",
+      "video": "https://vz-17e8b95f-de8.b-cdn.net/8a288304-c8db-42c5-b2a2-57fa7ab56fc1/playlist.m3u8",
+      "section": "trending",
+      "category": "Hotstar"
      }
   ]
 }
