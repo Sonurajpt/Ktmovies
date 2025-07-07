@@ -5,82 +5,94 @@
       "thumbnail": "https://i.postimg.cc/WhPfF9p9/81f21fae7e6c0e853426269aba991174.jpg",
       "video": "https://vz-17e8b95f-de8.b-cdn.net/ca1a709e-d5f8-4eee-9676-50a5b46ae64e/playlist.m3u8",
       "section": "trending",
-      "category": "Netflix"
+      "category": "Netflix",
+      "series_id": "series_1"
     },
     {
       "title": "Panchayat session 4",
       "thumbnail": "https://i.postimg.cc/K35tDksW/7f01a99a343526c823b04f087c46430a.jpg",
       "video": "https://vz-17e8b95f-de8.b-cdn.net/03fb3a74-0903-4e2b-a681-86c18ae67f1b/playlist.m3u8",
       "section": "top rated",
-      "category": "amazon prime"
+      "category": "amazon prime",
+      "series_id": "series_2"
     },
     {
       "title": "He's all that",
       "thumbnail": "https://i.postimg.cc/jnCJPgPD/9808caba0932c644a0135dc1b1c0ad26.jpg",
       "video": "https://vz-17e8b95f-de8.b-cdn.net/2f6bea4b-fb5d-40d8-8153-1c2be8f06e7b/playlist.m3u8",
       "section": "top rated",
-      "category": "Netflix"
+      "category": "Netflix",
+      "series_id": "series_1"
     },
     {
       "title": "Squid Game session 3",
       "thumbnail": "https://i.postimg.cc/njrP9xRB/banner-sample.jpg",
       "video": "https://vz-17e8b95f-de8.b-cdn.net/7e4a0c39-c98a-4238-9a5b-36759a92fa5f/playlist.m3u8",
       "section": "web series",
-      "category": "Netflix"
+      "category": "Netflix",
+      "series_id": "series_1"
     },
     {
       "title": "Snack shack",
       "thumbnail": "https://i.postimg.cc/ZW49jP2R/movie5.jpg",
       "video": "https://vz-17e8b95f-de8.b-cdn.net/423b4094-4dd9-456d-8064-2274712851c2/playlist.m3u8",
       "section": "trending",
-      "category": "amazon prime"
+      "category": "amazon prime",
+      "series_id": "series_2"
     },
     {
       "title": "Fear the walking dead Season 1",
       "thumbnail": "https://i.postimg.cc/QH9LPRLY/movie6.jpg",
       "video": "https://vz-17e8b95f-de8.b-cdn.net/f077e0e1-c5b9-4156-8147-ea55fb63978d/playlist.m3u8",
       "section": "web series",
-      "category": "mx player"
+      "category": "mx player",
+      "series_id": "series_3"
     },
      {
       "title": "School for Good and Evil",
       "thumbnail": "https://i.postimg.cc/jDLppmGk/movie4.jpg",
       "video": "https://vz-17e8b95f-de8.b-cdn.net/f452bf50-5c2a-486e-89d9-45dcff25232f/playlist.m3u8",
       "section": "top rated",
-      "category": "Netflix"
+      "category": "Netflix",
+       "series_id": "series_1"
      },
     {
       "title": " Beautiful disaster",
       "thumbnail": "https://i.postimg.cc/Sj8bVMFn/ddaf8687ae6677cd3495621f295be0ac.jpg",
       "video": "https://vz-17e8b95f-de8.b-cdn.net/8a288304-c8db-42c5-b2a2-57fa7ab56fc1/playlist.m3u8",
       "section": "trending",
-      "category": "Hotstar"
+      "category": "Hotstar",
+      "series_id": "series_4"
      },
     {
       "title": "Sikandar",
       "thumbnail": "https://i.postimg.cc/ts1m2K89/e91ac793ea5b41f1b2e9339eda09fe8f-copy-727x1090.jpg",
       "video": "https://vz-17e8b95f-de8.b-cdn.net/c57bb0f6-ba91-43f3-b877-e07496d0266e/playlist.m3u8",
       "section": "trending",
-      "category": "Hotstar"
+      "category": "Hotstar",
+      "series_id": "series_4"
      },
     {
       "title": "Veerana",
       "thumbnail": "https://i.postimg.cc/t1Yg2NHK/4890092e05ce9f63e52e2300996866a5-copy-727x991.jpg",
       "video": "https://vz-17e8b95f-de8.b-cdn.net/7ddf2ee2-3b59-445c-b564-98dbf87e2408/playlist.m3u8",
       "section": "top rated",
-      "category": "Hotstar"
+      "category": "Hotstar",
+      "series_id": "series_4"
      },
     {
       "title": "Saaree",
       "thumbnail": "https://i.postimg.cc/XGMv6j1x/DReau-Gv-Jr3-copy-727x1088.jpg",
       "video": "https://vz-17e8b95f-de8.b-cdn.net/b2777bb6-43eb-46d9-81d6-fcf1136aa224/playlist.m3u8",
-      "section": "top rated"
+      "section": "top rated",
+      "series_id": "series_4"
      },
      {
       "title": "The Diplomat",
       "thumbnail": "https://i.postimg.cc/xJbtqRRn/ab90b4e61b78a17dbf0a788a853a3c1f-copy-727x1090.jpg",
       "video": "https://vz-17e8b95f-de8.b-cdn.net/157c3dc3-b1e0-41fc-8ae2-d4b2704b683c/playlist.m3u8",
-      "section": "Bollywood movies"
+      "section": "Bollywood movies",
+       "series_id": "series_4"
      }
   ]
 }
