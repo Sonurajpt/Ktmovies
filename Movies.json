@@ -100,6 +100,13 @@
       "video": "https:\/\/vz-17e8b95f-de8.b-cdn.net\/7509277e-be9f-4f10-aeda-1907c51c5b7f\/playlist.m3u8",
       "section": "trending",
       "series_id": "series_id 1"
+    },
+    {
+      "title": "John wick chapter 2",
+      "thumbnail": "https:\/\/i.postimg.cc\/8jWJrHt5\/f3f4c64663457d886bd7508b6950c433-copy-727x1090.jpg",
+      "video": "https:\/\/vz-17e8b95f-de8.b-cdn.net\/5d48b119-72b8-4d8d-b65d-5ed40f55e36b\/playlist.m3u8",
+      "section": "trending",
+      "series_id": "series_id 2"
     }
   ]
 }
