@@ -107,6 +107,14 @@
       "video": "https:\/\/vz-17e8b95f-de8.b-cdn.net\/5d48b119-72b8-4d8d-b65d-5ed40f55e36b\/playlist.m3u8",
       "section": "trending",
       "series_id": "series_id 2"
+    },
+    {
+      "title": "Hridayam",
+      "thumbnail": "https:\/\/i.postimg.cc\/gcTjPCMk\/17ddaa43f3dda999ce2db05fe309ee80-copy-727x1090.jpg",
+      "video": "https:\/\/vz-17e8b95f-de8.b-cdn.net\/42180dd1-9ba4-48a1-b738-dee625b459f2\/playlist.m3u8",
+      "section": "top rated",
+      "category": "MX Player",
+      "series_id": "series_4"
     }
   ]
 }
