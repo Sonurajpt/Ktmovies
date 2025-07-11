@@ -141,10 +141,17 @@
     },
     {
       "title": "Yashoda",
-      "thumbnail": "https://postimage.me/images/2025/07/11/a206a126bf8d82f055019c877bbbbc9c_copy_727x1077.jpg",
+      "thumbnail": "https:\/\/postimage.me\/images\/2025\/07\/11\/a206a126bf8d82f055019c877bbbbc9c_copy_727x1077.jpg",
       "video": "https:\/\/vz-17e8b95f-de8.b-cdn.net\/0a2f213b-7c05-4197-a66f-79292398214a\/playlist.m3u8",
       "section": "South indian",
       "series_id": "series_4"
+    },
+    {
+      "title": "Kapkapiii",
+      "thumbnail": "https:\/\/i.postimg.cc\/8kt7c59m\/1ec7b708fc7012112e1828b85c4245f3-copy-727x1090.jpg",
+      "video": "https:\/\/vz-17e8b95f-de8.b-cdn.net\/6759c2f1-3d56-4c36-aa72-739fff876090\/playlist.m3u8",
+      "section": "Bollywood movies",
+      "series_id": "series_3"
     }
   ]
 }
