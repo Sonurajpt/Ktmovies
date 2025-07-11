@@ -160,6 +160,13 @@
       "section": "Netflix",
       "category": "top rated",
       "series_id": "series_2"
+    },
+    {
+      "title": "Good boy S01",
+      "thumbnail": "https:\/\/i.postimg.cc\/8CWqdddq\/c16308aaa997a959a76f6ed5c0dcb26f-copy-727x1090.jpg",
+      "video": "https:\/\/vz-17e8b95f-de8.b-cdn.net\/e555edd5-63c2-4a1a-8feb-66e69c9605f4\/playlist.m3u8",
+      "section": "Tv show\/drama",
+      "series_id": "series_e1"
     }
   ]
 }
