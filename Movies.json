@@ -196,6 +196,13 @@
       "section": "top rated",
       "category": "Hotstar",
       "series_id": "series_3"
+    },
+    {
+      "title": "Good boy S01",
+      "thumbnail": "https:\/\/i.postimg.cc\/TwCD2KX1\/195fd19544738b0b3d0913ddf04ea3e0-copy-727x1090.jpg",
+      "video": "https:\/\/vz-17e8b95f-de8.b-cdn.net\/6b50b52d-ba77-4a91-ab5e-457bd4ed5e73\/playlist.m3u8",
+      "section": "Tv show\/drama",
+      "series_id": "series_3"
     }
   ]
 }
