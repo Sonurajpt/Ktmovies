@@ -1,11 +1,12 @@
 {
   "movies": [
     {
-      "title": "Sher drama episode 2",
-      "thumbnail": "https:\/\/i.postimg.cc\/ZKPqw1t8\/IMG-20250714-111030.jpg",
-      "video": "https:\/\/vz-17e8b95f-de8.b-cdn.net\/bb1c2ecf-2328-44b0-910b-c80a79362072\/playlist.m3u8",
-      "section": "Tv show\/drama",
-      "series_id": "session_1"
+      "title": "Aap jaisa koi",
+      "thumbnail": "https:\/\/i.postimg.cc\/vBnjGBjg\/2f5f69b60c452f81e34079576408bcba-copy-727x1090.jpg",
+      "video": "https:\/\/vz-126348cc-da1.b-cdn.net\/bf234a71-be5d-49f6-9d30-e047d34ad533\/playlist.m3u8",
+      "section": "Bollywood",
+      "category": "Netflix",
+      "series_id": "series_4"
     },
     {
       "title": "Panchayat session 4",
