@@ -1,12 +1,11 @@
 {
   "movies": [
     {
-      "title": "Brick",
-      "thumbnail": "https:\/\/i.postimg.cc\/gkjrrfVD\/b4314dadb7003e395ba06fb29d056f1b-copy-727x1090.jpg",
-      "video": "https:\/\/vz-126348cc-da1.b-cdn.net\/abefb049-7421-4793-8c4e-874933179679\/playlist.m3u8",
-      "section": "Hollywood",
-      "category": "Netflix",
-      "series_id": "series_3"
+      "title": "Devils double next level",
+      "thumbnail": "https:\/\/i.postimg.cc\/VLJM2SVm\/35bc3dd0309ed67189b7276b24b75a17-copy-727x1090.jpg",
+      "video": "https:\/\/vz-126348cc-da1.b-cdn.net\/0a8078ed-b93b-489b-9427-e1cbf3e1581c\/playlist.m3u8",
+      "section": "Bollywood movies",
+      "series_id": "series_1"
     },
     {
       "title": "Panchayat session 4",
