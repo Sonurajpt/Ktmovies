@@ -1,8 +1,15 @@
 {
   "movies": [
     {
+      "title": "Pechi",
+      "thumbnail": "https:\/\/i.postimg.cc\/25Ztdvqy\/375b237348d75f944d99e935dc4f6256-copy-727x1090.jpg",
+      "video": "https:\/\/vz-126348cc-da1.b-cdn.net\/2c06a172-5beb-46ae-84ef-53ef04a853ea\/playlist.m3u8",
+      "section": "South indian",
+      "series_id": "series_3"
+    },
+    {
       "title": "Black water",
-      "thumbnail": "https://i.postimg.cc/FK1Fm8C1/1dd30ef5d264b57f6b05fb87a8237925-copy-727x1052.jpg",
+      "thumbnail": "https:\/\/i.postimg.cc\/FK1Fm8C1\/1dd30ef5d264b57f6b05fb87a8237925-copy-727x1052.jpg",
       "video": "https:\/\/vz-126348cc-da1.b-cdn.net\/444af067-03d0-4f71-90d8-e614686123f9\/playlist.m3u8",
       "section": "Hollywood",
       "series_id": "series_4"
