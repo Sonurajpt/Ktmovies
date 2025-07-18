@@ -21,6 +21,13 @@
       "section": "trending",
       "category": "Netflix",
       "series_id": "series_1"
+    },
+    {
+      "title": "Haunted heart",
+      "thumbnail": "https:\/\/i.postimg.cc\/QMHCR7ZR\/5e4789d14be01da03a793e2b3f458d81-copy-727x1076.jpg",
+      "video": "https:\/\/hglink.to\/e\/64qp3tzslh5a",
+      "section": "top rated",
+      "series_id": "series_3"
     }
   ]
 }
