@@ -2,17 +2,25 @@
   "movies": [
     {
       "title": "Alice in borderland session 1",
-      "thumbnail": "https://i.postimg.cc/BvvNXJsH/a3bbb19fdffd2343159cacdb98c198e3-copy-727x1090.jpg",
-      "video": "https://hglink.to/e/v3ico6srtro0",
+      "thumbnail": "https:\/\/i.postimg.cc\/BvvNXJsH\/a3bbb19fdffd2343159cacdb98c198e3-copy-727x1090.jpg",
+      "video": "https:\/\/hglink.to\/e\/v3ico6srtro0",
       "section": "web series",
       "series_id": "series_4"
     },
     {
       "title": " Alice in borderland session 2",
-      "thumbnail": "https://i.postimg.cc/W4FV0Lwq/02651af0fa9b1e1f5351c2d92a6820e0-copy-727x1090.jpg",
-      "video": "https://hglink.to/e/z2fw759n160z",
+      "thumbnail": "https:\/\/i.postimg.cc\/W4FV0Lwq\/02651af0fa9b1e1f5351c2d92a6820e0-copy-727x1090.jpg",
+      "video": "https:\/\/hglink.to\/e\/z2fw759n160z",
       "section": "web series",
       "series_id": "series_3"
+    },
+    {
+      "title": "Under paris",
+      "thumbnail": "https:\/\/i.postimg.cc\/kXwzgJtF\/1bd471eceeab9d91087f120eb71c1160-copy-727x1090.jpg",
+      "video": "https:\/\/hglink.to\/e\/kqhsh5otumpz",
+      "section": "trending",
+      "category": "Netflix",
+      "series_id": "series_1"
     }
   ]
 }
