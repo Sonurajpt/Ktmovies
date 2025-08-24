@@ -1,6 +1,15 @@
 {
   "movies": [
     {
+      "title": "Qween",
+      "thumbnail": "https:\/\/i.postimg.cc\/4ygZTgv8\/479a3b8f429a50155c0a48920ea37917.jpg",
+      "video": "https:\/\/s.magsrv.com\/splash.php?idzone=5708180",
+      "dawnlode": "https:\/\/s.magsrv.com\/splash.php?idzone=5708180",
+      "section": "trending",
+      "category": "apple tv",
+      "series_id": "series_3"
+    },
+    {
       "title": "night",
       "thumbnail": "https:\/\/i.postimg.cc\/htSgCMvZ\/6eb66e58e7ee57da518cdc8f460a8e6c-copy-726x1090.jpg",
       "video": "https:\/\/www.profitableratecpm.com\/khsex3xe?key=6030b15beb791fd4e5d4d46a17b2f333",
@@ -10,7 +19,7 @@
       "series_id": "series_2"
     },
     {
-    "title": "Night always comes 2025",
+      "title": "Night always comes 2025",
       "thumbnail": "https:\/\/i.postimg.cc\/QM3Nrsfm\/250px-Night-Always-Comes-poster-copy-726x1077.jpg",
       "video": "https:\/\/listeamed.net\/v\/MAlwEMRnbGWOJ39",
       "dawnlode": "https:\/\/fast-dl.lol\/dl\/93687a",
