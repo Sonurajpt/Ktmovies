@@ -420,6 +420,14 @@
       "section": "South indian",
       "category": "HBO",
       "series_id": "series_4"
+    },
+    {
+      "title": "Jurassic world",
+      "thumbnail": "https:\/\/i.postimg.cc\/v8XSX7rn\/Jurassic-World-poster-copy-726x1075.jpg",
+      "video": "https:\/\/iframe.mediadelivery.net\/embed\/456413\/c132e982-5051-4fbe-952f-91489d1ffd6e?autoplay=true&loop=true&muted=true&preload=true&responsive=true",
+      "section": "Hollywood",
+      "category": "Amazon prime",
+      "series_id": "series_3"
     }
   ]
 }
