@@ -436,6 +436,14 @@
       "section": "Bollywood movies",
       "category": "Netflix",
       "series_id": "series_2"
+    },
+    {
+      "title": "Squid game session 3",
+      "thumbnail": "https:\/\/i.postimg.cc\/sggtdNqx\/MV5-BYTU3-ZDVh-Nm-Mt-MDVl-NC00-MDc0-LTgw-NDMt-YWE5-MTI2-ZGI4-YWIw-Xk-Ey-Xk-Fqc-Gc-V1-copy-726x1090.jpg",
+      "video": "https:\/\/vz-583ac135-bb8.b-cdn.net\/20b7bab9-74f8-49bb-801e-b7262c991b90\/playlist.m3u8",
+      "section": "Web series",
+      "category": "Netflix",
+      "series_id": "series_4"
     }
   ]
 }
