@@ -3,7 +3,7 @@
     {
       "title": "Alice in borderland session 1",
       "thumbnail": "https:\/\/i.postimg.cc\/BvvNXJsH\/a3bbb19fdffd2343159cacdb98c198e3-copy-727x1090.jpg",
-      "video": "https://vz-583ac135-bb8.b-cdn.net/29a0a589-fe81-4cb8-915e-02b82027b22f/playlist.m3u8",
+      "video": "https:\/\/vz-583ac135-bb8.b-cdn.net\/29a0a589-fe81-4cb8-915e-02b82027b22f\/playlist.m3u8",
       "section": "web series",
       "series_id": "series_4",
       "downloadUrl": "example.com"
@@ -424,10 +424,18 @@
     {
       "title": "Jurassic world",
       "thumbnail": "https:\/\/i.postimg.cc\/v8XSX7rn\/Jurassic-World-poster-copy-726x1075.jpg",
-      "video": "https://vz-583ac135-bb8.b-cdn.net/c132e982-5051-4fbe-952f-91489d1ffd6e/playlist.m3u8",
+      "video": "https:\/\/vz-583ac135-bb8.b-cdn.net\/c132e982-5051-4fbe-952f-91489d1ffd6e\/playlist.m3u8",
       "section": "Hollywood",
       "category": "Amazon prime",
       "series_id": "series_3"
+    },
+    {
+      "title": "Madam chief minister 2021",
+      "thumbnail": "https:\/\/i.postimg.cc\/2yCZ9hyp\/MV5-BMj-I3-MWQ5-NTct-Zm-U5-Yi00-NDY4-LTlk-Mj-Mt-MWFk-Zjc2-OTRl-ZTZk-Xk-Ey-Xk-Fqc-Gc-V1-copy-726x1090.jpg",
+      "video": "https:\/\/vz-583ac135-bb8.b-cdn.net\/98e9fae8-0879-4d72-afdc-973976752e84\/playlist.m3u8",
+      "section": "Bollywood movies",
+      "category": "Netflix",
+      "series_id": "series_2"
     }
   ]
 }
