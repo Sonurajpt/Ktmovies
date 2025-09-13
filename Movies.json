@@ -468,6 +468,14 @@
       "section": "Hollywood",
       "category": "Netflix",
       "series_id": "series_2"
+    },
+    {
+      "title": "Rana naidu S02",
+      "thumbnail": "https:\/\/i.postimg.cc\/1z5khHWD\/d8361499d299559464dd8a68923ba9bc-copy-726x1090.jpg",
+      "video": "https:\/\/vz-583ac135-bb8.b-cdn.net\/ed717433-76bd-4c0b-ac12-bec5cfa4eb2e\/playlist.m3u8",
+      "section": "Web series",
+      "category": "Netflix",
+      "series_id": "series_3"
     }
   ]
 }
