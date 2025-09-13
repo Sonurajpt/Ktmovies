@@ -460,6 +460,14 @@
       "section": "trending",
       "category": "Netflix",
       "series_id": "series_3"
+    },
+    {
+      "title": "No hard feelings",
+      "thumbnail": "https:\/\/i.postimg.cc\/0yrpHztH\/MV5-BZjk1-Nm-Zi-Nz-Yt-ZGUy-Yi00-Yz-Ew-LTgw-NWQt-M2-Vm-OWFm-MGIw-ZDM2-Xk-Ey-Xk-Fqc-Gc-V1-copy-726x1090.jpg",
+      "video": "https:\/\/vz-583ac135-bb8.b-cdn.net\/c565ad12-64f3-40b0-97ad-5aab861dc5a4\/playlist.m3u8",
+      "section": "Hollywood",
+      "category": "Netflix",
+      "series_id": "series_2"
     }
   ]
 }
