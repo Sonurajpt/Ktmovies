@@ -1,0 +1,25 @@
+{
+  "series": [
+    {
+      "title": "Pretty Little Liars",
+      "thumbnail": "https://example.com/series-thumb.jpg",
+      "seasons": [
+        {
+          "season": 1,
+          "episodes": [
+            {
+              "title": "Episode 1",
+              "thumbnail": "https://example.com/ep1.jpg",
+              "videoUrl": "https://example.com/ep1.mp4"
+            },
+            {
+              "title": "Episode 2",
+              "thumbnail": "https://example.com/ep2.jpg",
+              "videoUrl": "https://example.com/ep2.mp4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
