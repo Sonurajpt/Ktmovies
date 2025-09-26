@@ -1,15 +1,15 @@
 {
   "series": [
     {
-      "title": "Pretty Little Liars",
-      "thumbnail": "https://example.com/series-thumb.jpg",
+      "title": "Cought",
+      "thumbnail": "https://ibb.co/397DpKnx",
       "seasons": [
         {
           "season": 1,
           "episodes": [
             {
               "title": "Episode 1",
-              "thumbnail": "https://example.com/ep1.jpg",
+              "thumbnail": "https://ibb.co/397DpKnx",
               "videoUrl": "https://www.1024tera.com/sharing/link?surl=CtohKTbNvttkFKs_XjA4VA"
             },
             {
