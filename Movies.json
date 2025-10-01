@@ -1,6 +1,14 @@
 {
   "movies": [
     {
+      "title": "Two much Kajol with twinkle session 1",
+      "thumbnail": "https:\/\/i.postimg.cc\/Y03nb8mz\/261dok-Xdp-S1-KGIqv-W9hi-PKx6u6-G-copy-1200x1800-copy-726x1090.jpg",
+      "video": "https:\/\/hubstream.art\/#b6ztgi",
+      "section": "Drama\/tv shows",
+      "category": "Amazon prime",
+      "series_id": "series_3"
+    },
+    {
       "title": "",
       "thumbnail": "",
       "video": "",
@@ -491,10 +499,10 @@
       "category": "Netflix",
       "series_id": "series_2"
     },
-     {
+    {
       "title": "alice in borderland session 3 episode 1",
       "thumbnail": "https:\/\/i.postimg.cc\/8C7Yrg5K\/season-3.jpg",
-      "video": "https://links.kmhd.net/play?id=ab0456ba",
+      "video": "https:\/\/links.kmhd.net\/play?id=ab0456ba",
       "section": "Web series",
       "category": "Netflix",
       "series_id": "series_3"
