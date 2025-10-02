@@ -518,8 +518,16 @@
     {
       "title": "Hex 2018",
       "thumbnail": "https:\/\/i.postimg.cc\/90YZwP6H\/86f2b89061e5c91c9a528d6bd308355b-copy-726x1088.jpg",
-      "video": "https://links.kmhd.net/play?id=cc87506f",
+      "video": "https:\/\/links.kmhd.net\/play?id=cc87506f",
       "section": "top rated",
+      "series_id": "series_2"
+    },
+    {
+      "title": "dhadak 2",
+      "thumbnail": "https:\/\/i.postimg.cc\/FsQ4VM67\/s3o23-Gb-RXv-HPPRm50kq-Qjjj-Co-KP-copy-726x1090.jpg",
+      "video": "https:\/\/links.kmhd.net\/play?id=cb1458cd",
+      "section": "Bollywood movies",
+      "category": "Netflix",
       "series_id": "series_2"
     }
   ]
