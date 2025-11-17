@@ -3,15 +3,15 @@
     {
       "title": "Holy Ghost",
       "thumbnail": "https:\/\/i.postimg.cc\/SK59XH8M\/z1lwn6-GWAj-J7-CSn80-Zc-URb0-Cj4-G-copy-726x1090.jpg",
-      "video": "https://103.145.232.246/Data/movies/Hollywood/Hollywood%20collection/Spider%20Man%203%20%282007%29/Spider%20Man%203%20%282007%29.mp4",
+      "video": "https:\/\/103.145.232.246\/Data\/movies\/Hollywood\/Hollywood%20collection\/Spider%20Man%203%20%282007%29\/Spider%20Man%203%20%282007%29.mp4",
       "section": "Hollywood",
       "category": "Amazon prime",
       "series_id": "series_3"
     },
     {
       "title": "Laal",
-      "thumbnail": "https://i.ibb.co/RkHJDDP5/aa6421a72acc15557e33f750e2f081328224493f9a3b6a798dd3758a7b380a66.jpg",
-      "video": "https://drive.google.com/file/d/1gB_6IpVAbIbTO2wydyQl2-FpwLlCpzoW/preview",
+      "thumbnail": "https:\/\/i.ibb.co\/RkHJDDP5\/aa6421a72acc15557e33f750e2f081328224493f9a3b6a798dd3758a7b380a66.jpg",
+      "video": "https:\/\/drive.google.com\/file\/d\/1gB_6IpVAbIbTO2wydyQl2-FpwLlCpzoW\/preview",
       "section": "Tv show\/drama",
       "category": "Amazon prime",
       "series_id": "series_3"
@@ -148,7 +148,7 @@
     {
       "title": "Evil dead rise",
       "thumbnail": "https:\/\/i.postimg.cc\/J4xjqsN7\/4193c18971ae30f53240fc4b91b2f8c7.jpg",
-      "video": "https://links.kmhd.net/play?id=2744f8e6",
+      "video": "https:\/\/links.kmhd.net\/play?id=2744f8e6",
       "section": "Hollywood",
       "Dawnload": "example",
       "series_id": "series_3"
@@ -180,7 +180,7 @@
     {
       "title": "Sex appeal",
       "thumbnail": "https:\/\/i.postimg.cc\/1t42QnhV\/2557ed2ddb93b5f5354f53bab91bb8d2.jpg",
-      "video": "https://drive.google.com/file/d/1EGuFXkxRWIRwUF7NIAY4E7lfmw9_7o_g/preview",
+      "video": "https:\/\/drive.google.com\/file\/d\/1EGuFXkxRWIRwUF7NIAY4E7lfmw9_7o_g\/preview",
       "section": "trending",
       "Dawnload": "example",
       "series_id": "series_1"
@@ -397,7 +397,7 @@
     {
       "title": "Bakaiti 2025 session 1",
       "thumbnail": "https:\/\/i.postimg.cc\/hvZRmLpJ\/MV5-BNj-E2-NGE1-NTQt-NDE3-My00-OGRk-LWEz-MTQt-Mjll-ZWMx-ZTg5-N2-U0-Xk-Ey-Xk-Fqc-Gc-V1-SX500-copy-726x1090.jpg",
-      "video": "https://speedostream1.com/embed-bgyuyaza461m.html",
+      "video": "https:\/\/speedostream1.com\/embed-bgyuyaza461m.html",
       "section": "web series",
       "category": "Zee 5",
       "Dawnload": "example",
@@ -529,6 +529,14 @@
       "section": "Bollywood movies",
       "category": "Netflix",
       "series_id": "series_2"
+    },
+    {
+      "title": "mojin the worm valley",
+      "thumbnail": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjdIm9hNtb275uaefdxUCmOAPnXmoBq2_4_JbP6eOieDN6EtiY5-qYpmAbMyFclP6Lmh76RyZBDe2B_MSp4d8lQ_F9H0i3nM77qxCtx0EbNAqxrY2nkMgg3-XlzYCX9YSrI-Y6KcsAL3xnzi6ATWvvKLHNCxQs83SkFjGL_GQFCF6aoBNUTZdgTfoKRFxCH\/s320\/11837.jpg",
+      "video": "https:\/\/drive.google.com\/file\/d\/1x5GcWvWvTQQi1l3yHA52Z1WJJWMt0uaA\/preview",
+      "section": "Hollywood",
+      "category": "Amazon prime",
+      "series_id": "series_3"
     }
   ]
 }
