@@ -541,9 +541,16 @@
     {
       "title": "stranger things session 5 episode 1",
       "thumbnail": "https:\/\/hosturl.link\/KkXaeY",
-      "video": "https://drive.google.com/file/d/1GsJK-LF_x_zCd4mhGSuMzPaz1iOb6E56/preview",
+      "video": "https:\/\/drive.google.com\/file\/d\/1GsJK-LF_x_zCd4mhGSuMzPaz1iOb6E56\/preview",
       "section": "Tv show\/drama",
       "category": "Netflix",
+      "series_id": "series_3"
+    },
+    {
+      "title": "S05 - E02 stranger things",
+      "thumbnail": "https:\\\/\\\/hosturl.link\\\/KkXaeY",
+      "video": "https:\/\/drive.google.com\/file\/d\/1MyBUUZ9ypIXItVV-UgGE7ReDO2slwpu7\/preview",
+      "section": "Tv show\/drama",
       "series_id": "series_3"
     }
   ]
