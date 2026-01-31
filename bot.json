@@ -1,0 +1,44 @@
+{
+  "all movies": {
+    "Bollywood movies": {
+      "Hindi movies": {
+        "Unit 1": "https://www.ktmovies.fun",
+        "Unit 2": "https://www.ktmovies.fun",
+        "Unit 3": "https://www.ktmovies.fun"
+      },
+      "Hollywood movies": {
+        "Unit 1": "https://www.ktmovies.fun"
+      }
+    },
+    "Semester 2": {
+      "South Indian": {
+        "Unit 1": "https://www.ktmovies.fun",
+        "Unit 2": "https://www.ktmovies.fun"
+      },
+      "webseries": {
+        "Unit 1": "https://www.ktmovies.fun"
+      }
+    },
+    "Semester 3": {
+      "Netflix movies": {
+        "Unit 1": "https://www.ktmovies.fun",
+        "Unit 2": "https://www.ktmovies.fun"
+      },
+      "all OTT": {
+        "Unit 1": "https://www.ktmovies.fun",
+        "Unit 2": "https://www.ktmovies.fun",
+        "Unit 3": "https://www.ktmovies.fun",
+        "Unit 4": "https://www.ktmovies.fun",
+        "Unit 5": "https://www.ktmovies.fun"
+      },
+      }
+  }
+  "movies": {
+    "Semester 1": {
+      "Pharmaceutics I": {
+        "Unit 1": "https://link-to-unit1.pdf",
+        "Unit 2": "https://link-to-unit2.pdf"
+      }
+    }
+  }
+}
